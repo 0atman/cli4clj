@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="cli4clj.test.example" errors="0" failures="0" tests="8" time="0.0422" timestamp="2016-09-12_22:26:47+0200">
-    <testcase name="print-function-opt-args-test" classname="cli4clj.test.example" time="0.0204">
+<testsuite name="cli4clj.test.example" errors="0" failures="0" tests="8" time="0.0382" timestamp="2016-10-16_14:38:30+0200">
+    <testcase name="print-function-opt-args-test" classname="cli4clj.test.example" time="0.0202">
     </testcase>
-    <testcase name="advanced-main-method-error-example-test" classname="cli4clj.test.example" time="0.0015">
+    <testcase name="advanced-main-method-error-example-test" classname="cli4clj.test.example" time="0.0010">
     </testcase>
-    <testcase name="invalid-token-to-string-fallback-test" classname="cli4clj.test.example" time="0.0031">
+    <testcase name="invalid-token-to-string-fallback-test" classname="cli4clj.test.example" time="0.0021">
     </testcase>
-    <testcase name="print-function-test" classname="cli4clj.test.example" time="0.0019">
+    <testcase name="print-function-test" classname="cli4clj.test.example" time="0.0015">
     </testcase>
-    <testcase name="main-method-error-with-trace-example-test" classname="cli4clj.test.example" time="0.0083">
+    <testcase name="main-method-error-with-trace-example-test" classname="cli4clj.test.example" time="0.0069">
     </testcase>
-    <testcase name="advanced-main-method-example-test" classname="cli4clj.test.example" time="0.0025">
+    <testcase name="advanced-main-method-example-test" classname="cli4clj.test.example" time="0.0023">
     </testcase>
-    <testcase name="simple-main-method-example-test" classname="cli4clj.test.example" time="0.0008">
+    <testcase name="simple-main-method-example-test" classname="cli4clj.test.example" time="0.0007">
     </testcase>
     <testcase name="simple-main-method-error-example-test" classname="cli4clj.test.example" time="0.0008">
     </testcase>
